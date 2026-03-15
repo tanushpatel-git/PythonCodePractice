@@ -1,2 +1,4 @@
-a = 12
+# variable is
+
+a = str(input())
 print(a)
