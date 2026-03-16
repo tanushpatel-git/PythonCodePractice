@@ -1,4 +1,24 @@
-# variable is
+# Hello World in python is
 
-a = str(input())
-print(a)
+print("Hello World in python is")
+
+
+# Data type is --->
+#
+# Integer,
+# String,
+# Boolean,
+# Float,
+# None
+
+
+
+name = "Tanush"
+age = 20
+amount = 30.3
+isAdult = True
+
+print(name)
+print(age)
+print(amount)
+print(isAdult)
