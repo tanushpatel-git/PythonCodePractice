@@ -58,4 +58,32 @@ print(prac_str.find("L")) # returns 1st index of 1st occurrence
 tempString = prac_str.replace("B", "K") # replaces all occurrences of old with new
 print("After Replace B by K", tempString)
 print("Capitalize first letter using fucn", ("tanush").capitalize()) #capitalizes 1st char
+print("This is a line turn all word upper case",("Tanush").upper())
 print("Is Hello is end with lle", ("Hello").endswith("llo")) #returns true if string ends with substr
+
+
+
+# --------------------------------------                         ----------------------------------------
+# --------------------------------------  Conditional Statement  ---------------------------------------
+# --------------------------------------                         ----------------------------------------
+
+
+age = int(input("Enter Your Age"))
+
+if(age >= 18):
+    print("Adult")
+else:
+    print("Not Adult")
+
+
+# -------------------------------- if elif ladder -----------------------------------
+
+
+light = "Green"
+
+if(light == "Green"):
+    print("Go")
+elif(light == "Yellow"):
+    print("Look")
+else:
+    print("Wait")
