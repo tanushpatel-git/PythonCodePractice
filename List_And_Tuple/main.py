@@ -1,4 +1,4 @@
-# --------------------------- List --------------------------------
+# --------------------------- List -> Mutable Data type which can we change --------------------------------
 marks = [23.5, 63.2, 78.3, 89.2, 87.8]
 print(marks)
 print(type(marks))
@@ -22,3 +22,6 @@ marks.reverse()
 print("Print Marks after using reverse ->" , marks)
 marks.insert(2,12.3)
 print("Print marks after insert one float number in list ->", marks)
+
+
+# -------------------------------- Tupple -> ImMutable Datatype which can't be change -------------------------
