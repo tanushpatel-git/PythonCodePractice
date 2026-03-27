@@ -87,3 +87,6 @@ elif(light == "Yellow"):
     print("Look")
 else:
     print("Wait")
+
+
+# <---------------------------------- Second Day course Complete ------------------------------------>
