@@ -99,7 +99,3 @@ print("Union of set 1 and set 2 ->",set1.union(set2)) # output is {1,2,3,4}
 # Intersection of set1 and set2 
 # ---> Give the common value of set 1 and set 2 
 print("Intersection of set 1 and set 2 ->",set1.intersection(set2)) # output is {2,3}
-
-
-
-
