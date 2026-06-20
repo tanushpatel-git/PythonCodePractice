@@ -1,6 +1,8 @@
 # Hello World in python is
 
 print("Hello World in python is") # it is a code in python to print the word inside a ""
+print("Hello World",end=" ")
+print("Hello in line 5 in code")
 
 
 # Data type is --->
